@@ -1,0 +1,9 @@
+apiVersion: v1
+name: nginx-development
+description: A Helm chart for nginx deployment
+keywords:
+  - nginx
+version: 1.0.0
+maintainers:
+  - name: muktadiur
+    email: muktadiur@gmail.com
