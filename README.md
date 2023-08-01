@@ -1,5 +1,5 @@
 # argocd-helm
-Kubernetes, ArgoCD, and Helm demo
+ CI/CD using Kubernetes, ArgoCD, and Helm 
 
 ```bash
 # for staging
